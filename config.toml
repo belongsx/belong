@@ -1,6 +1,6 @@
 baseurl = "http://belongsx.github.io/"
 languageCode = "en-us"
-title = "Hugo Agency Theme"
+title = "shuai"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -16,8 +16,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "shuai"
+	description = "bu shuai"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
